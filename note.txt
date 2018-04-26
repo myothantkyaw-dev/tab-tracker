@@ -1,0 +1,22 @@
+vue cli သြင္းပါ
+npm install vue-cli
+
+client အတြက္အရင္သြားပါ
+vue init webpack client
+
+
+client folder ထဲ၀င္ပီး
+npm install ပါ
+
+npm run dev init
+ဘာညာ ဒါေတြကို package.json ထဲက script မွာၾကည့္နိုင္ပါတယ္
+
+ဒါေတြသြင္းပီးသြားရင္ git ေပၚadd ပါ
+git add --all
+
+
+
+
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
